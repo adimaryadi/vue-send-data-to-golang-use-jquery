@@ -12,7 +12,7 @@
     "bootstrap-vue": "^2.1.0",
     "core-js": "^3.4.3",
     "dns": "^0.2.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vue": "^2.6.11",
     "vue-jquery": "^1.0.6",
     "vue-resource": "^1.5.1",
